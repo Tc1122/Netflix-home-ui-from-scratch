@@ -6,6 +6,7 @@
     justify-content: space-between;
     padding: 20px;
     position: fixed;
+    background-color: black;
 }
 .Netflix-logo{
     position: fixed;
