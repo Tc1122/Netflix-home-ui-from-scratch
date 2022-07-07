@@ -21,6 +21,10 @@
 
 ![Home screenshot](https://user-images.githubusercontent.com/91719727/177758601-001378e7-865e-4190-bb04-ae35b17f2287.png)
 
+View of UI when trailer showing
+![UI](https://user-images.githubusercontent.com/91719727/177758938-6e2e9b7f-8a65-4f2c-82cb-b62ec173e28e.png)
+
+
 
 
 
