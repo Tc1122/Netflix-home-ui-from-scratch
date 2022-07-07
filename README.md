@@ -19,7 +19,7 @@
 
 ### Templates of UI
 
-![Home](public/images/2022-07-07 (3).png)
+![Home screenshot](https://user-images.githubusercontent.com/91719727/177758601-001378e7-865e-4190-bb04-ae35b17f2287.png)
 
 
 
