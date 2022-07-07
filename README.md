@@ -18,8 +18,10 @@
  15. Check whether all components are imported in app.js or not
 
 ### Templates of UI
+
 <img src="./public/images/logo.png" alt="My cool logo"/>
-![Home](/images/path/to/netflix-home-ui\public\images\2022-07-07 (3).png)
+
+![Home](https://raw.githubusercontent.com/TC1122/Netflix-home-ui-from-scratch/master/C:\Users\ansif\Desktop\Home\vscode\Netflix-UI\netflix-home-ui\public\images\2022-07-07 (3).png)
 
 ![Home](/netflix-home-ui/public/images/2022-07-07%20(4).png?raw=true  "Optional title")
 
