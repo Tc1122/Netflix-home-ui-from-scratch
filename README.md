@@ -21,7 +21,7 @@
 
 <img src="./public/images/logo.png" alt="My cool logo"/>
 
-![Home](https://raw.githubusercontent.com/TC1122/Netflix-home-ui-from-scratch/master/..public/images/2022-07-07 (3).png)
+![Home](https://raw.githubusercontent.com/TC1122/Netflix-home-ui-from-scratch/master/public/images/2022-07-07 (3).png)
 
 ![Home](/netflix-home-ui/public/images/2022-07-07%20(4).png?raw=true  "Optional title")
 
