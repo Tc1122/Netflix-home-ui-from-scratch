@@ -18,7 +18,7 @@
  15. Check whether all components are imported in app.js or not
 
 ### Templates of UI
-![Home](/netflix-home-ui/public/images/2022-07-07%20(3).png?raw=true  "Optional title")
+![Home](netflix-home-ui\public\images\2022-07-07 (3).png)
 
 ![Home](/netflix-home-ui/public/images/2022-07-07%20(4).png?raw=true  "Optional title")
 
