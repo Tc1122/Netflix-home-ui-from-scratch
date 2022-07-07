@@ -1,3 +1,35 @@
+# Packages   
+ `axios` `react-youtube` 
+ # Steps to create this site ui from scratch
+ 1. Create react app
+ 2. Create a component folder
+ 3. Create a Navbar.js file and Navbar.css file in component folder. import Navbar.css file in Navbar.js
+ 4. Create a Banner.js and its css file in a Banner folder inside in the component folder
+ 5. Import Navbar and Banner in App.js
+ 6. Add axios to project usin npm i axios , create axios.js file , set config 
+ 7. Create a account in the movie data base website for API
+ 8. Store created API key in base url and image url in new file named constants.js inside the constant folder
+ 9. Use useState for setMovie and setId and useEffect
+ 10. Create handleMovie function in RowPost.js file
+ 11. Use map to go through the array
+ 12. Install react Youtube package for viewing trailer
+ 13. Add overflow-x for RowPost row
+ 14. Add transform scale(1.1) for poster image class
+ 15. Check whether all components are imported in app.js or not
+
+### Templates of UI
+![Home](/netflix-home-ui/public/images/2022-07-07%20(3).png?raw=true  "Optional title")
+
+![Home](/netflix-home-ui/public/images/2022-07-07%20(4).png?raw=true  "Optional title")
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
