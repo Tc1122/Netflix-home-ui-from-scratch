@@ -19,7 +19,7 @@
 
 ### Templates of UI
 
-![Home](2022-07-07 (3).png)
+![Home](/public/images/2022-07-07 (3).png)
 
 
 
